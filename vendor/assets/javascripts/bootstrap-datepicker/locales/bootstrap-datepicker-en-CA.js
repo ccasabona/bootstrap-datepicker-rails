@@ -17,6 +17,6 @@
 		format: "yyyy-mm-dd"
 	};
 
-	$.fn.datepicker.deprecated('This filename doesn\'t follow the convention, use bootstrap-datepicker.en-CA.js instead.');
+	// $.fn.datepicker.deprecated('This filename doesn\'t follow the convention, use bootstrap-datepicker.en-CA.js instead.');
 
 }(jQuery));
